@@ -1,4 +1,4 @@
-````markdown
+
 # Company AI Chatbot (Gradio + RAG)
 
 A conversational chatbot UI built with Gradio that lets users interact with your company’s AI knowledge base, powered by Retrieval-Augmented Generation (RAG) using Google Gemini embeddings and ChromaDB.
@@ -39,7 +39,7 @@ A conversational chatbot UI built with Gradio that lets users interact with your
    ```bash
    git clone https://github.com/your-org/company-ai-chatbot.git
    cd company-ai-chatbot
-````
+   ```
 
 2. **Create & activate a virtual environment**
 
@@ -176,5 +176,3 @@ Please follow the existing code style and write tests for new functionality.
 
 *Happy chatting with your Company AI! 🎉*
 
-```
-```
